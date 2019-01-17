@@ -1,10 +1,10 @@
 ---
-title: 'Future Blog Post'
+title: '[Apache Kafka] Kiến trúc consumer retry trong Apache Kafka'
 date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: https://viblo.asia/p/apache-kafka-kien-truc-consumer-retry-trong-apache-kafka-ByEZkvWgKQ0
 tags:
   - cool posts
-  - category1
+  - Kafka
   - category2
 ---
 
