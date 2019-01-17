@@ -6,9 +6,6 @@ tags:
   - Kafka
 ---
 
-Kiến trúc consumer retry trong Apache Kafka
-======
-
 Trong bài viết này, tôi muốn giải thích các vấn đề có thể gặp phải trong quá trình xử lý message của Kafka và cách đối phó. Trước khi đi xa hơn, kiến thức căn bản về Kafka là cần thiết.
 
 Căn bản về Apache Kafka
