@@ -4,7 +4,6 @@ title: "Choose Your Own Adventure!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 YouNet Media - 2018/02/04
