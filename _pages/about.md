@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Choose Your Own Adventure!"
-permalink: /about
+permalink: /about/
 author_profile: true
 excerpt: "About me"
 redirect_from: 
