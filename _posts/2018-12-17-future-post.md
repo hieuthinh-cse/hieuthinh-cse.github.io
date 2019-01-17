@@ -1,7 +1,7 @@
 ---
 title: '[Apache Kafka] Kiến trúc consumer retry trong Apache Kafka'
 date: 2018-12-17
-permalink: https://viblo.asia/p/apache-kafka-kien-truc-consumer-retry-trong-apache-kafka-ByEZkvWgKQ0
+permalink: /posts/2018/08/future-post-1/
 tags:
   - Kafka
 ---
