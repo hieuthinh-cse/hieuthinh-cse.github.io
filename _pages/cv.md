@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[View my CV here](https://drive.google.com/file/d/0B3rw7bdA0bMWRXJTRkVSNE42aEE/view?fbclid=IwAR12pBMwyeiMzABpEquhesIkhL5QrBMH7XKDIvUU7wWej2gpCCcoc1XUJas)
+
 Education
 ======
 * The Degree Of Engineer, Ho Chi Minh City University of Technology, 2012
