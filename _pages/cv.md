@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2/2017–Present: Engineer
+* 4/2019–Present: Software Engineer, Backend
+  * Grab
+  * Duties included: Developed Advertising Platform.
+  
+* 2/2017–04/2019: Software Engineer, Backend
   * YouNet Media
   * Duties included: Developed SocialHeat - a platform of monitoring social media channels and analyzing the data for actionable insights.
   
@@ -29,4 +33,8 @@ Skills
   * Kubernetes
   * Jenkins
 * Database: Apache Solr, MySQL, Redis
+
+Other
+======
+Collection: [https://app.box.com/s/mobt2zsygc372u5bigrf5s7x8ifysmon](https://app.box.com/s/mobt2zsygc372u5bigrf5s7x8ifysmon)
   
